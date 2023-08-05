@@ -1,4 +1,4 @@
-//Davide Reverberi Matr: 332781
+//Davide Reverberi 
 
 //Simulazione algoritmi di scheduling
 
